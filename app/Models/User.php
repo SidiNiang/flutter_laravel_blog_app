@@ -8,6 +8,7 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 // use Illuminate\hasApiService
 // use Illuminate\hasApiService
+// use Illuminate\hasApiService
 
 class User extends Authenticatable
 {
